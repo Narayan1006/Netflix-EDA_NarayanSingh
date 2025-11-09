@@ -19,3 +19,4 @@ Exploratory Data Analysis on the Netflix Titles dataset using Python, pandas, an
 ## 👤 Author
 Narayan Singh  
 BTech CSE, 3rd Semester  
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-blue)
